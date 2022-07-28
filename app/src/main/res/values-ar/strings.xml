@@ -4,4 +4,9 @@
     <string name="splash1">ملخص لكل المقررات والمواد العلمية</string>
     <string name="app_name">summary</string>
     <string name="start">start</string>
+    <string name="email">E-mail</string>
+    <string name="forgot">"forgot your "</string>
+    <string name="pass">Password?</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don’t have an account ?</string>
 </resources>
