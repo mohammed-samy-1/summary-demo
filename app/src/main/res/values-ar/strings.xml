@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash2">"يمكنك شراء ملخص للكتب بجوده عاليه وتحصيل اعلى استفاده ممكنه بسعر لا يزيد عن 20 جنيه "</string>
+    <string name="splash1">ملخص لكل المقررات والمواد العلمية</string>
+    <string name="app_name">summary</string>
+    <string name="start">start</string>
+</resources>
